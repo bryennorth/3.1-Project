@@ -1,0 +1,6 @@
+Step 1 Instructions
+
+Steps to check if the calculator can perform calculations in a test case
+1. Select the buttons you would use in a test case in sequence
+2. Observe and check that the result is correct
+

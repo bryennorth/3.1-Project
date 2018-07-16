@@ -1,0 +1,22 @@
+https://github.com/DevMountain-QA/nightwatch-introduction#step-2
+(Step 4 Detailed Instructions)
+//adding it to the filed required in tests.js ?
+(Step 4 Detailed Instructions)
+them array of objects! ?
+(Step 3 Detailed Instructions)
+ else we'd to using the browser in our tests.js files. ?
+(Step 3 Detailed Instructions)
+The easiest way to do this will be to simply pass in the calculator ? Did you meant paste, not pass?
+(Step 3 Detailed Instructions)
+. We need to pass in the calculator page object! ? Is pass a word used in place of paste?
+(Step 3 Detailed Instructions)
+The expectedd result ? Two Ds
+(Step 3 Detailed Instructions)
+In our step3/tests.js file, we need to require our new function, up at the top near where we required the uiCheck function.
+ - I'm Pretty Sure This Never Happened. the uiCheck was not required earlier
+(Step 4 Detailed Instructions)
+So. Our function has access ot the ? to, not ot
+(Step 4 Detailed Instructions)
+That's what we wantedd to abstract out ? Two Ds
+(Step 4 Detailed Instructions)
+we ipmlement the mathRunner function! ? mispelled implement

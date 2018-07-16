@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="4" time="9.744" timestamp="Mon, 16 Jul 2018 22:06:39 GMT">
+  
+    <testcase name="EmployeeSelection" classname="test" time="7.697" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="EditableAndSavinginGeneratedFields" classname="test" time="0.5270" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="cancelPriorToSave" classname="test" time="0.4270" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Empty Input Errors" classname="test" time="1.093" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;//span[contains(.,&#34;T he phone number must be 10 digits long.&#34;)]&gt; to be present for 500 milliseconds.">    at Object.Empty Input Errors (C:\Users\North\Documents\DevMountain\3.1-Project\tests\test.js:95:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
